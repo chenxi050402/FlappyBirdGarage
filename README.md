@@ -1,3 +1,3 @@
 # FlappyBirdGarage
 Flappy Bird remade in Game Builder Garage
-Game code: G 003 M27 7T4
+Game code: G 003 B8G L2V
